@@ -2,7 +2,6 @@
 html, body{
     width: 98vw;
     height: 98%;
-    margin: 1vw;
     font-family: 'Open Sans', sans-serif;
 }
 .title,.author,.intro-head{
@@ -16,6 +15,7 @@ html, body{
 }
 .intro{
     line-height: 25px;
+    transform: translateX(1vw);
 }
 .btn{
     width: 100px;
