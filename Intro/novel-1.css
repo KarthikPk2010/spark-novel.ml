@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@900&display=swap');
+html, body{
+    width: 98vw;
+    height: 98%;
+    margin: 1vw;
+    font-family: 'Open Sans', sans-serif;
+}
+.title,.author,.ch{
+    text-align: center;
+}
+.title{
+    font-family: 'Roboto', sans-serif;
+}
+.ch{
+    text-decoration: underline;
+}
+.btn{
+    width: 120px;
+    height: 35px;
+    background-color: rgb(243, 243, 243);
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    left: calc(50vw - 45px);
+    border-radius: 150px;
+}
