@@ -24,6 +24,6 @@ html, body{
     color: black;
     text-decoration: none;
     position: absolute;
-    left: calc(51vw - 35px);
+    left: calc(49vw - 35px);
     border-radius: 150px;
 }
